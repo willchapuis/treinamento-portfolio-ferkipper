@@ -1,5 +1,6 @@
 import { Header } from "./components/header/header";
-import { container } from "./styles/home";
+
+import "./styles/home.scss";
 
 export default function Home() {
   return (
