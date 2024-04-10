@@ -17,7 +17,7 @@ export default function Home() {
         <a className="btn-primary" href="mailto:teste@gmail.com">
           Contact Me
           <EmailIcon/>
-          </button>
+          </a>
       </div>
     </main>
   )
