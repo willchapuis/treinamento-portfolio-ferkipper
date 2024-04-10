@@ -1,3 +1,8 @@
+<!-- Creditos/Fonte do treinamento:
+https://www.youtube.com/watch?v=1tp7LMp0V28
+https://www.figma.com/file/wEuUcXmq0dlgXo8Rm09bkb/portfolio-template?type=design&node-id=1-2&mode=design&t=OqUoDxJmsfQ17I7o-0
+-->
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
