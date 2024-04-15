@@ -34,23 +34,25 @@
     
         .experience-unit {
             width: 300px;
-            height: 50px;
+            height: 33px;
+            border: 2px solid var(--text-secondary);
             border-radius: 24px;
-            border: 1px solic var(--text-secondary);
 
             display: flex;
             justify-content: flex-start;
             align-items: center;
 
             .experience-measure {
+                //width: 100%;
                 display: flex;
                 justify-content: center;
                 align-items: center;
-                z-index: 999;
+                //z-index: 999;
 
                 border-radius: 24px;
+                width: 300px;
                 height: 30px;
-                border: 2px solic linear-gradient(90deg, #777CF4 2.62%, #F47777 93.38%);
+                //border: 2px solid var(--text-secondary);
                 background: linear-gradient(90deg, #777CF4 2.62%, #F47777 93.38%);
                 
                 color: var(--text-primary);
