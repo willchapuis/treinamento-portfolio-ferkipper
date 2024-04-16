@@ -1,3 +1,5 @@
+"use client";
+
 import { Experience } from "./components/experience/experience";
 import { Header } from "./components/header/header";
 import { EmailIcon } from "./components/icons/email-icon";
